@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552211903257",
+    "project_id": "ecofriendlypaperbag-feae5",
+    "storage_bucket": "ecofriendlypaperbag-feae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552211903257:android:feae376eaa58f0ecda4b88",
+        "android_client_info": {
+          "package_name": "com.ecofriendly.paperBags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552211903257-5rntj1rgqddvn1pd3ne3a9rs77urqhg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmf33UiL_nhfsnzE-m5Zm6zsEllCjTDXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552211903257-5rntj1rgqddvn1pd3ne3a9rs77urqhg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
